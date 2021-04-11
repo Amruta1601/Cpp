@@ -1,0 +1,11 @@
+# include<iostream>
+using namespace std;
+
+int main(){
+	double x,y,Productoftwonumbers; 
+	cout<<"Enter two numbers:";
+	cin>>x>>y;
+	Productoftwonumbers=x*y;
+	cout<<"Product:"<<Productoftwonumbers;
+	return 0;	
+} 
